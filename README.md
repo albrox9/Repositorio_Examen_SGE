@@ -36,4 +36,9 @@ El marco de diseño permite anidar fulas y columnas dentro de filas y columnas c
 * ListView: presenta los widgets como una lista desplazable.
 * Stack: superpone un widget encima de otro.
 
+### Documento de referencia
+
+En este enlace podemos encontrar más información sobre widget.
+[enlace para mas informacion](https://docs.flutter.dev/development/ui/layout#aligning-widgets)
+
 
