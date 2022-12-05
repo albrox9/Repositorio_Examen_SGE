@@ -22,3 +22,18 @@ Cuando un diseño es muy grande para caber en el dispositivo aparece un patrón 
 Se puede cambiar tamaño de los widget para que quepan dentro de una fila o columna usando el **Expanded Widget**. En el siguiente código vemos como usarlo.
 
 ![image](https://user-images.githubusercontent.com/103987304/205598341-64abbffd-497c-48ed-8d45-52bee7858814.png)
+
+### Anidar filas y columnas
+
+El marco de diseño permite anidar fulas y columnas dentro de filas y columnas con la profuncidad que haga falta. 
+
+![image](https://user-images.githubusercontent.com/103987304/205598821-823a1e3e-42e1-4753-a44c-8533350e6542.png)
+
+### Widget estándar
+
+* Container: agrega relleno, márgenes, bordes, color de fondo u otras decoraciones a un widget.
+* GridView: presenta los widgets como una cuadrícula desplazable.
+* ListView: presenta los widgets como una lista desplazable.
+* Stack: superpone un widget encima de otro.
+
+
