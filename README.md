@@ -2,6 +2,7 @@
 Repositorio creado para la tarea 2 del Examen de SGE
 
 ## Documento README rama DESARROLLO.
+v1.0.2
 
 ### Alineacion de widgets en Flutter
 
