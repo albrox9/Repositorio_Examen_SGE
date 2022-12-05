@@ -16,3 +16,9 @@ Para una columna, el eje principar es hacia vertical y el eje transversal hacia 
 Cuando un diseño es muy grande para caber en el dispositivo aparece un patrón de rayas amarillas y negras a lo largo del borde afectado. 
 
 ![image](https://user-images.githubusercontent.com/103987304/205597845-ddd58001-b2b7-45af-b56f-5a6619fc780e.png)
+
+### Como cambiar tamaño widget
+
+Se puede cambiar tamaño de los widget para que quepan dentro de una fila o columna usando el **Expanded Widget**. En el siguiente código vemos como usarlo.
+
+![image](https://user-images.githubusercontent.com/103987304/205598341-64abbffd-497c-48ed-8d45-52bee7858814.png)
